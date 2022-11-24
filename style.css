@@ -1,7 +1,7 @@
 
   #titulo{
 	background-color: #6fff00;
-	text-decoration-color: black;
+	
 	
   }
   #titulof{
@@ -10,9 +10,11 @@
 
   }
   #tituloa{
-	background-color:#0051ff; 
-	color:white;
+    background-color:#e3f25f ; color:black
 
+  }
+  #texta{
+    Color:white;
   }
   #titulot{
 	background-color:#0051ff; 
@@ -26,12 +28,12 @@
   
   }
   #navf{
-	background-color: #dfdd;
+    background-color:rgba(221, 223, 255, 0.867);
 	
   
   }
   #nava{
-	background-color: #dfdd;
+    background-color:rgba(255, 254, 221, 0.867);
 	
   
   }
@@ -44,10 +46,10 @@
 	background-color:#dfdd;
   }
   #articulof{
-	background-color:#dfdd;
+    background-color:rgba(221, 223, 255, 0.867);
   }
   #articuloa{
-	background-color:#dfdd;
+    background-color:rgba(255, 254, 221, 0.867);
   }
   #articulot{
 	background-color:#dfdd;
